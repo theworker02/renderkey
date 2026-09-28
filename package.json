@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/renderkey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render and reshape key text streams with deterministic transforms.",
+  "bin": {
+    "renderkey": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/renderkey.git"
+  },
+  "homepage": "https://theworker02.github.io/renderkey/",
+  "keywords": [
+    "render",
+    "key",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
